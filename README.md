@@ -8,7 +8,7 @@ I found out I was a software engineer when I recieved my letter from Makers Acad
 I've always loved to make things from the ground up, whether it was knitting a scarf stitch by stitch, making fancy dress costumes with cardboard and a gluegun, or building programs that tell your fortune. It's in my blood. 
 <br>
 <br>
-I love to solve problems. You'll often find me in an escape room solving riddles and cracking codes, or fixing printers in the office. I am tenacious and won't stop until I've found a solution that works and is efficient.
+I love to solve problems. You'll often find me in an escape room solving riddles and cracking codes, or fixing printers in the office. I am tenacious and won't stop until I've found an efficient solution.
 <br>
 <br>
 I also love to follow the rules, I'm curious, and enjoy a challenge. So, after 10 years working in PR and communications, I'm transferring my skills to become a junior software engineer. 
