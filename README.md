@@ -114,5 +114,5 @@ BA(Hons) Public Relations and Communication
 --------------------------------------------
 ## Find out more
 
-[Read my blog] (https://medium.com/@rachelnewby)
-[See my Codewars profile] (https://www.codewars.com/users/Rachelnewby)
+[Read my blog](https://medium.com/@rachelnewby) <br>
+[See my Codewars profile](https://www.codewars.com/users/Rachelnewby)
