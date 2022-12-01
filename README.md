@@ -52,17 +52,22 @@ At McKesson UK, I managed urgent press enquiries on sensitive issues; journalist
 (November 2022 - March 2023)<br>
 Makers is an intensive 16-week bootcamp, led by industry-leading engineers. It's designed to produce self-sufficient software engineers by equipping them with the skills they need to excel as developers. 
 <br>
+<br>
 **Code First Girls** <br>
 Introduction to Web Development (May - June 2022)<br>
 Python and Apps (July - August 2022)<br>
 JavaScript MOOC (September 2022)<br>
 Code First Girls is a social enterprise which offers coding courses for women and non binary people. 
 <br>
+<br>
 **Southampton Solent University**<br>
-Public Relations and Communication (September 2007 - July 2010)
+(September 2007 - July 2010)<br>
+BA(Hons) Public Relations and Communication 
+<br>
 <br>
 **The Henley College**<br>
 4 A-Levels - English Literature, Law, Media Studies, Theatre Studies
+<br>
 <br>
 **St. Bernard's Roman Catholic School**<br>
 8 GCSEs including Maths, Information Systems, Science, English, French
