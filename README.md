@@ -110,3 +110,9 @@ BA(Hons) Public Relations and Communication
 * Keen interest in fitness, particularly weight lifting
 * Enjoy Japanese and Korean culture, food, and entertainment
 * Volunteer in the community - provided COVID vaccine clinic support during the pandemic 
+
+--------------------------------------------
+## Find out more
+
+[Read my blog] (https://medium.com/@rachelnewby)
+[See my Codewars profile] (https://www.codewars.com/users/Rachelnewby)
