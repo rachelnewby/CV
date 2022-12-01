@@ -14,7 +14,7 @@ I love to solve problems. You'll often find me in an escape room solving riddles
 I also love to follow the rules, I'm curious, and enjoy a challenge. So, after 10 years working in PR and communications, I'm transferring my skills to become a junior software engineer. 
 
 
-[1]: That's not strictly true. [Here's a blog I wrote about why I decided to change career.](https://medium.com/@rachelnewby/im-becoming-a-software-engineer-here-s-why-cdf9c4475d28)
+[1]: That's not strictly true... [Here's a blog I wrote about why I decided to change career.](https://medium.com/@rachelnewby/im-becoming-a-software-engineer-here-s-why-cdf9c4475d28)
 
 ---------------------------------------------
 ## Projects
