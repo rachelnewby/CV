@@ -21,7 +21,6 @@ Prior to training as a developer, I worked in PR and corporate communications fo
 |[Bowling Challenge](https://github.com/rachelnewby/bowling-challenge) | A bowling score calculator that runs in the terminal with node | Solo | JavaScript, Node, Jest | 
 |[MakersBNB](https://github.com/rachelnewby/makers-bnb) | A booking app which enables users to sign up; login; view properties available to book; see booking availability; request to book; upload their own properties | Group | Ruby, Active Record, RSpec, Rake, HTML, CSS |
 |[Chitter](https://github.com/rachelnewby/chitter-challenge) | A Twitter clone which enables users to sign up, sign in, view posts, and create new posts | Solo | Ruby, RSpec, PostgreSQL, Sinatra |
-|[Takeaway Project](https://github.com/rachelnewby/takeaway_project) | A takeaway app which enables users to view a menu, make an order, and recieve a text when their order will be ready | Solo | Ruby, Twilio, RSpec |
 |[Anatomy of the dog](https://github.com/rachelnewby/cfg-anatomy-of-the-dog-project.git)| A responsive website built to identify different parts of various animals | Group | Javascript, HTML, CSS          |
 
 --------------------------------------------
