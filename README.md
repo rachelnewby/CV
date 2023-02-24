@@ -1,32 +1,30 @@
-# Rachel Newby
+# :woman_technologist: Rachel Newby
 
-## About
+Software engineering bootcamp graduate from leading provider, with over a decade of experience in PR and corporate communications. 
 
-I found out I was a software engineer when I recieved my letter from Makers Academy of Software Engineers and Developers via owl, in the summer of 2022[1]. But if I'd thought about it, it was obvious really.
-<br>
-<br>
-I've always loved to make things from the ground up, whether it was knitting a scarf stitch by stitch, making fancy dress costumes with cardboard and a gluegun, or building programs that tell your fortune. It's in my blood. 
-<br>
-<br>
-I love to solve problems. You'll often find me in an escape room solving riddles and cracking codes, or fixing printers in the office. I am tenacious and won't stop until I've found an efficient solution.
-<br>
-<br>
-I also love to follow the rules, I'm curious, and enjoy a challenge. So, after 10 years working in PR and communications, I'm transferring my skills to become a junior software engineer. 
+## :bust_in_silhouette: Profile
 
-
-[1]: That's not strictly true... [Here's a blog I wrote about why I decided to change career.](https://medium.com/@rachelnewby/im-becoming-a-software-engineer-here-s-why-cdf9c4475d28)
+I'm an enthusiastic and curious full stack junior software engineer who enjoys creative problem solving, making things, following processes, and working in a team. <br>
+<br>
+As a Makers Academy graduate, I'm skilled at working in agile environments, test-driven development, object-oriented programming, front- and backend development, and at quickly learning and adapting to new technologies. Tech skills include: JavaScript, Ruby, React, Node, Sinatra, Jest, RSpec, Mongodb, PostgreSQL, Express, HTML, CSS. <br>
+<br>
+Prior to training as a developer, I worked in PR and corporate communications for over a decade in a host of sectors, including technology, healthcare, automotive, education, finance, and legal. During this time I honed my communication, strategic, and business accumen skills. You can read my blog which details my career change journey [here.](https://medium.com/@rachelnewby/im-becoming-a-software-engineer-here-s-why-cdf9c4475d28)
 
 ---------------------------------------------
-## Projects
+## :roller_coaster: Projects
 
-| Name                 | Description                                                               | Technologies        |
-|:--------------------:|:-------------------------------------------------------------------------:|:-------------------:|
-|[Anatomy of the dog](https://github.com/rachelnewby/cfg-anatomy-of-the-dog-project.git)| A responsive website built to identify different parts of various animals | Javascript          |
+| Name                 | Description                                                               |Group/Solo           | Technologies        |
+|:--------------------:|:-------------------------------------------------------------------------:|:-------------------:|:-------------------:|
+|[aceBook](https://github.com/rachelnewby/acebook-mern-fire) | A social media web app which enables users to sign up; login; write, edit, and delete their own posts; like other posts; and add other users as friends | Group | React, JavaScript, Jest, Mongodb, Node, Cypress, HTML, CSS, Express |
+|[Bank Tech Test](https://github.com/rachelnewby/bank-tech-test)| Technical test. Program offers core bank features including deposit/withdraw and print formatted statements | Solo | JavaScript, Node, Jest |
+|[News Summary App](https://github.com/rachelnewby/news-summary-challenge) | A responsive app which pulls the latest news stories from The Guardian, includes a search function enabling users to see stories on the topic of their choice | Solo | JavaScript, Jest, HTML, CSS |
+|[MakersBNB](https://github.com/rachelnewby/makers-bnb) | A booking app which enables users to sign up; login; view properties available to book; see booking availability; request to book; upload their own properties | Group | Ruby, Active Record, RSpec, Rake, HTML, CSS |
+|[Anatomy of the dog](https://github.com/rachelnewby/cfg-anatomy-of-the-dog-project.git)| A responsive website built to identify different parts of various animals | Group | Javascript, HTML, CSS          |
 
 --------------------------------------------
-## Skills
+## :woman_cartwheeling: Skills
 
-**Strategic:** Able to see the bigger picture and ask the important questions: why?<br>
+**Strategic:** Able to see the bigger picture and ask the important questions.<br>
 At McKesson UK, I did a full review of the company website ahead of the sale of the business. I sourced and analysed Google Analytics data which showed that key pages demonstrating the business's value offering weren't being visited. After thoroughly researching the requirements of the business and needs of target audiences, recommendations were implemented to improve the readability and navigation of the website to ensure the business's most important messages were communicated effectively. 
 
 **Creative:** Developing creative solutions to solve a variety of different challenges.<br>
@@ -46,7 +44,7 @@ At McKesson UK, I managed urgent press enquiries on sensitive issues; journalist
 
 
 --------------------------------------------
-## Education
+## :briefcase: Education
 
 **Makers Academy** <br>
 (November 2022 - March 2023)<br>
@@ -73,7 +71,7 @@ BA(Hons) Public Relations and Communication
 8 GCSEs including Maths, Information Systems, Science, English, French
 
 --------------------------------------------
-## Experience
+## :office: Experience
 
 **Senior Communications Manager - McKesson UK**
 (November 2021 - August 2022)
@@ -103,7 +101,7 @@ BA(Hons) Public Relations and Communication
 (January 2011 - April 2013)
 
 --------------------------------------------
-## Interests
+## :oil_drum: Interests
 
 * Play the tenor bass in a steel pan band
 * Mind campaigner - support the charity's campaign to improve access to mental health support
@@ -112,7 +110,9 @@ BA(Hons) Public Relations and Communication
 * Volunteer in the community - provided COVID vaccine clinic support during the pandemic 
 
 --------------------------------------------
-## Find out more
+## :card_index: Get in Touch and Find Out More
 
+[Email me](mailto:rachelcnewby@gmail.com) <br>
+[Connect on LinkedIn](https://www.linkedin.com/in/rachel-newby-uk/) <br>
 [Read my blog](https://medium.com/@rachelnewby) <br>
 [See my Codewars profile](https://www.codewars.com/users/Rachelnewby)
