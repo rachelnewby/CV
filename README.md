@@ -8,7 +8,7 @@ I'm an enthusiastic and curious full stack junior software engineer who enjoys c
 <br>
 As a Makers Academy graduate, I'm skilled at working in agile environments, test-driven development, object-oriented programming, front- and backend development, and at quickly learning and adapting to new technologies. Tech skills include: JavaScript, Ruby, React, Node, Sinatra, Jest, RSpec, Mongodb, PostgreSQL, Express, HTML, CSS. <br>
 <br>
-Prior to training as a developer, I worked in PR and corporate communications for over a decade in a host of sectors, including technology, healthcare, automotive, education, finance, and legal. During this time I honed my communication, strategic, and business accumen skills. You can read my blog which details my career change journey [here.](https://medium.com/@rachelnewby/im-becoming-a-software-engineer-here-s-why-cdf9c4475d28)
+Prior to training as a developer, I worked in PR and corporate communications for over a decade in a host of sectors, including technology, healthcare, automotive, education, finance, and legal. During this time I honed my communication, strategic, and business acumen skills. You can read my blog which details my career change journey [here.](https://medium.com/@rachelnewby/im-becoming-a-software-engineer-here-s-why-cdf9c4475d28)
 
 ---------------------------------------------
 ## :roller_coaster: Projects
@@ -18,7 +18,10 @@ Prior to training as a developer, I worked in PR and corporate communications fo
 |[aceBook](https://github.com/rachelnewby/acebook-mern-fire) | A social media web app which enables users to sign up; login; write, edit, and delete their own posts; like other posts; and add other users as friends | Group | React, JavaScript, Jest, Mongodb, Node, Cypress, HTML, CSS, Express |
 |[Bank Tech Test](https://github.com/rachelnewby/bank-tech-test)| Technical test. Program offers core bank features including deposit/withdraw and print formatted statements | Solo | JavaScript, Node, Jest |
 |[News Summary App](https://github.com/rachelnewby/news-summary-challenge) | A responsive app which pulls the latest news stories from The Guardian, includes a search function enabling users to see stories on the topic of their choice | Solo | JavaScript, Jest, HTML, CSS |
+|[Bowling Challenge](https://github.com/rachelnewby/bowling-challenge) | A bowling score calculator that runs in the terminal with node | Solo | JavaScript, Node, Jest | 
 |[MakersBNB](https://github.com/rachelnewby/makers-bnb) | A booking app which enables users to sign up; login; view properties available to book; see booking availability; request to book; upload their own properties | Group | Ruby, Active Record, RSpec, Rake, HTML, CSS |
+|[Chitter](https://github.com/rachelnewby/chitter-challenge) | A Twitter clone which enables users to sign up, sign in, view posts, and create new posts | Solo | Ruby, RSpec, PostgreSQL, Sinatra |
+|[Takeaway Project](https://github.com/rachelnewby/takeaway_project) | A takeaway app which enables users to view a menu, make an order, and recieve a text when their order will be ready | Solo | Ruby, Twilio, RSpec |
 |[Anatomy of the dog](https://github.com/rachelnewby/cfg-anatomy-of-the-dog-project.git)| A responsive website built to identify different parts of various animals | Group | Javascript, HTML, CSS          |
 
 --------------------------------------------
@@ -31,10 +34,10 @@ At McKesson UK, I did a full review of the company website ahead of the sale of 
 At Auto Trader, I found a solution to display dense, content-heavy reports on our corporate website. To make the content engaging and accessible, I worked with an exernal agency to build additional modules which would make the reports interactive. My role was to make sure the business's needs were met, test the solutions, and deliver the requirements on time. The solution resulted in a significantly larger readership than on previous pdf reports, and we reused the modules across the site to improve overall engagement online. 
 
 **Team player:** Collaborate with others to share skills and knowledge.<br>
-During the Code First Girls Introduction to Web Development course, we had to work in a group and build a website of our choice and spec. We mapped out the website requirements, how we would build it, assigned responsibilities and deadlines, and ensured each of us had an opportunity to use the new skills we'd learnt. When we encountered bugs, we supported and learned from each other to find solutions. Our effective teamwork meant we were able to build our project in a week, alongside our full-time jobs. 
+During my time at Makers, we took part in multiple group projects, including building a FaceBook clone. We inherited an existing codebase and had to use technologies we weren't familiar with. As a team, we were committed to learning and knowledge sharing, making sure everyone understood the code, and taught each other new tech skills. This empathetic and collaborative approach culminated in a successful MVP which had eight new features built into it, and meant our team fully grasped React, JavaScript, and Mongodb. 
 
 **Communication:** Understand complex topics and simplify them for wide audiences.<br> 
-At the University of Roehampton, I read and dissected research papers, and crafted relatable stories which I pitched to the media. This gained significant press coverage and highlighted the impact of the work the University of Roehampton had on communities globally. Topics included chicken husbandary, and the use of benzodiazepines. 
+At the University of Roehampton, I read and dissected research papers, and crafted relatable stories which I pitched to the media. This gained significant press coverage and highlighted the impact of the work the University of Roehampton had on communities globally. Topics included chicken husbandry, and the use of benzodiazepines. 
 
 **Attention to detail:** Keen eye for the little - and big - things.<br>
 At Auto Trader, I was responsible for writing and editing parts of the annual report, which had strict requirements. I meticulously followed the guidelines to ensure each requirement was reported on succinctly, and all the information was captured, and verified. I proofread the document to edit grammatical errors and typos. Attention to detail was vital to ensure we were reporting accurately and efficiently. 
