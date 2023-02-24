@@ -8,7 +8,7 @@ I'm an enthusiastic and curious full stack junior software engineer who enjoys c
 <br>
 As a Makers Academy graduate, I'm skilled at working in agile environments, test-driven development, object-oriented programming, front- and backend development, and at quickly learning and adapting to new technologies. Tech skills include: JavaScript, Ruby, React, Node, Sinatra, Jest, RSpec, Mongodb, PostgreSQL, Express, HTML, CSS. <br>
 <br>
-Prior to training as a developer, I worked in PR and corporate communications for over a decade in a host of sectors, including technology, healthcare, automotive, education, finance, and legal. During this time I honed my communication, strategic, and business acumen skills. You can read my blog which details [my career change journey.]https://medium.com/@rachelnewby/im-becoming-a-software-engineer-here-s-why-cdf9c4475d28)
+Prior to training as a developer, I worked in PR and corporate communications for over a decade in a host of sectors, including technology, healthcare, automotive, education, finance, and legal. During this time I honed my communication, strategic, and business acumen skills. You can read my blog which details [my career change journey.](https://medium.com/@rachelnewby/im-becoming-a-software-engineer-here-s-why-cdf9c4475d28)
 
 ---------------------------------------------
 ## :roller_coaster: Projects
