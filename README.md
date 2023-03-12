@@ -15,6 +15,7 @@ Prior to training as a developer, I worked in PR and corporate communications fo
 
 | Name                 | Description                                                               |Group/Solo           | Technologies        |
 |:--------------------:|:-------------------------------------------------------------------------:|:-------------------:|:-------------------:|
+|[Destination Unknown](https://github.com/rachelnewby/destination-unknown) | A flight price comparison site that gives users the option to compare two cities and as well as itinerary recommendations and general city data for your destinations | Group | HTML, CSS, JavaScript, Node, Express, React, Jest, Cypress | 
 |[aceBook](https://github.com/rachelnewby/acebook-mern-fire) | A social media web app which enables users to sign up; login; write, edit, and delete their own posts; like other posts; and add other users as friends | Group | React, JavaScript, Jest, Mongodb, Node, Cypress, HTML, CSS, Express |
 |[Bank Tech Test](https://github.com/rachelnewby/bank-tech-test)| Technical test. Program offers core bank features including deposit/withdraw and print formatted statements | Solo | JavaScript, Node, Jest |
 |[News Summary App](https://github.com/rachelnewby/news-summary-challenge) | A responsive app which pulls the latest news stories from The Guardian, includes a search function enabling users to see stories on the topic of their choice | Solo | JavaScript, Jest, HTML, CSS |
