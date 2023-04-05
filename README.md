@@ -15,6 +15,8 @@ Prior to training as a developer, I worked in PR and corporate communications fo
 
 | Name                 | Description                                                               |Group/Solo           | Technologies        |
 |:--------------------:|:-------------------------------------------------------------------------:|:-------------------:|:-------------------:|
+|[Sent-ence-iment](https://github.com/rachelnewby/sent-ence-iment) | An app which measures the sentiment of user input using natural language processing | Group | JavaScript, React, Python, Flask | 
+|[Home on Time](https://github.com/JLoobs/PowerHackApp-) | An emergency contact app which alerts contacts about someone's safety during their trip home | Group - Hackathon | Next.js, Node.js, React, JavaScript, HTML | 
 |[Destination Unknown](https://github.com/rachelnewby/destination-unknown) | A flight price comparison site that gives users the option to compare two cities and as well as itinerary recommendations and general city data for your destinations | Group | HTML, CSS, JavaScript, Node, Express, React, Jest, Cypress | 
 |[aceBook](https://github.com/rachelnewby/acebook-mern-fire) | A social media web app which enables users to sign up; login; write, edit, and delete their own posts; like other posts; and add other users as friends | Group | React, JavaScript, Jest, Mongodb, Node, Cypress, HTML, CSS, Express |
 |[Bank Tech Test](https://github.com/rachelnewby/bank-tech-test)| Technical test. Program offers core bank features including deposit/withdraw and print formatted statements | Solo | JavaScript, Node, Jest |
@@ -47,11 +49,15 @@ At McKesson UK, I managed urgent press enquiries on sensitive issues; journalist
 
 
 --------------------------------------------
-## :briefcase: Education
+## :briefcase: Education & Achievements 
 
 **Makers Academy** <br>
 (November 2022 - March 2023)<br>
 Makers is an intensive 16-week bootcamp, led by industry-leading engineers. It's designed to produce self-sufficient software engineers by equipping them with the skills they need to excel as developers. 
+<br>
+<br>
+**SheCanCode PowerHack***<br>
+A hackathon hosted by SheCanCode and Dojo with the aim to create a women's safety app. Our team of five created Home on Time, an app which enabled users to let their emergency contact know about their journey. Home on Time was the winning team amongst stiff competition. 
 <br>
 <br>
 **Code First Girls** <br>
