@@ -56,7 +56,7 @@ At McKesson UK, I managed urgent press enquiries on sensitive issues; journalist
 Makers is an intensive 16-week bootcamp, led by industry-leading engineers. It's designed to produce self-sufficient software engineers by equipping them with the skills they need to excel as developers. 
 <br>
 <br>
-**SheCanCode PowerHack***<br>
+**SheCanCode PowerHack**<br>
 A hackathon hosted by SheCanCode and Dojo with the aim to create a women's safety app. Our team of five created Home on Time, an app which enabled users to let their emergency contact know about their journey. Home on Time was the winning team amongst stiff competition. 
 <br>
 <br>
